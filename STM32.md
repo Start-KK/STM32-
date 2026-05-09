@@ -6,6 +6,8 @@
 
 
 
+![](https://raw.githubusercontent.com/Start-KK/Typora-Images/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-05-09%20205416.png)
+
 ## 1 八种工作模式
 
 | 输出         | 输入     |
