@@ -2,6 +2,10 @@
 
 （人的手）引脚命名 片上外设 
 
+![](https://raw.githubusercontent.com/Start-KK/Typora-Images/main/img/屏幕截图 2026-05-09 205416.png)
+
+
+
 ## 1 八种工作模式
 
 | 输出         | 输入     |
